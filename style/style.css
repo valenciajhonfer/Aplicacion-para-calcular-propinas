@@ -1,0 +1,45 @@
+body{
+    background-color: gainsboro;
+    
+}  
+.formular{
+    margin-top:150px; 
+    margin-left:350px; 
+    box-sizing: border-box;
+    width: 50%; 
+    text-align: center;
+    background-color: #c2c2c2;
+    align-self: center;
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    border-radius: 30px;
+}
+.resultados{
+    margin-top:50px; 
+    margin-left:350px; 
+    box-sizing: border-box;
+    width: 50%; 
+    text-align: center; 
+    background-color: #c0f1f5;
+    align-self: center;
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    border-radius: 30px; 
+}
+/* margin-top:150px;
+    
+    
+    
+    
+    background-color: #c2c2c2;
+    align-self: center;
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    border-radius: 30px; */
+    
