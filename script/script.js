@@ -9,7 +9,4 @@ function Calcular() {
 
 
 
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/valenciajhonfer/Aplicacion-para-calcular-propinas.git
-git push -u origin main   
+ 
