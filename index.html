@@ -9,21 +9,27 @@
 </head>
 <body>
     
-    <form class="formular">
+   <form class="formular">
+
+<h1>Calculadora de propinas</h1>
         <h2>Calcular </h2>
         <div id="cuenta">
         Valor de la cuenta:<br>
-     <input type="text" id="t1">
+     <input type="text" id="t1" placeholder="Cuenta">
      <br>
-     porcentaje que a pagar:<br>
-     <input type="text" id="t2">
+     porcentaje:<br>
+     <input type="text" id="t2" placeholder="%">
      <br>
     </div>
      <input type="button" value="Calcular" onclick="Calcular();" class="boton">
     </form> 
-    <p id="promedio" class="resultados">:</p>
-    <p id="paga" class="resultados"></p>
-    <h1 id="total" class="resultados"></h1>
+    
+    <p id="promedio" class="resultados"><h3>Porcentaje</h3>></p>
+    
+    <p id="paga" class="resultados"><h3>Cuenta</h3></p>
+    
+    <h1 id="total" class="resultados"><h3>Total cuenta + porcentaje</h3></h1>
+    
     
     <script src="./script/script.js"></script> 
 </body>
